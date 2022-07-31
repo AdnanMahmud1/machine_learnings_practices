@@ -1,6 +1,6 @@
 import pandas as pd
 import numpy as np
-import  sklearn
+import sklearn
 from sklearn import linear_model
 import matplotlib.pyplot as pyplot
 import pickle
